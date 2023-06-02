@@ -1,36 +1,22 @@
 ### Hi there 👋
-I'm currently seeking an unpaid remote software engineer internship for Summer 2023.
-
-#### Purpose of this profile
-- This profile serves as a space to showcase additional information beyond what is included in my resume.
+I'm currently seeking an unpaid remote software engineer internship for Summer 2023. Feel free to contact me. 
+- [Resume](https://drive.google.com/file/d/1KUzUJisgLrA4M6KroZA-YTkTUbKKwlaR/view?usp=share_link)
+> This profile serves as a space to showcase additional information beyond what is included in my resume.
 
 ### Areas of Interest
 - CyberSecurity
 - Backend development
-> "I am open to any software engineering and IT-related internship opportunities."
+> "I am open to any software engineering or IT-related internship opportunities."
 
 ### Skills
-Programming language and frameworks that I had experience with, ranked by recent familiarity
-
-Backend:  
-- Java
-- Python
-- C#
-- C++
-
-Web Development:
-- HTML, CSS
-- JavaScript, React.JS
-- PHP
-  
-Database:
-- SQL
-
-Other Tools:
-- Unity
-- Git
-- Github, bitbucket
-- Trello
+Programming languages, frameworks and tools that I had experience with, ranked by recent familiarity
+|Backend|Web Development|Database|Others|
+|-------------|-------------| -----|-----|
+|Java|HTML, CSS|SQL|Unity|
+|Python|JavaScript, React.JS||Git, Github,  bitbucket|
+|C# |PHP||Trello|
+|C++ ||||
+|||||
 
 ### Education Experience
 - Pursuing a Master of Science in Computer Science (Computer Security) at USC
@@ -47,8 +33,8 @@ Other Tools:
 
 ### 📫 How to reach me:
 - Email: ashleyma0728@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/yuehongxiao-ma/)
-- [Resume](https://drive.google.com/file/d/1KUzUJisgLrA4M6KroZA-YTkTUbKKwlaR/view?usp=share_link)
+- [LinkedIn](https://www.linkedin.com/in/yuehongxiao-ma/) (not up to date)
+
 ---
 ### Recent works （Under Construction）
 #### Incident Response Workflow Automation Prototype
