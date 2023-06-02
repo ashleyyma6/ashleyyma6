@@ -16,27 +16,24 @@ Programming languages, frameworks and tools that I had experience with, ranked b
 |Python|JavaScript, React.JS||Git, Github,  bitbucket|
 |C# |PHP||Trello|
 |C++ ||||
-|||||
 
 ### Education Experience
 - Pursuing a Master of Science in Computer Science (Computer Security) at USC
 - Expected graduation: December 2023
 
-### 🌱 Current Learning Focus
-- Security+ Certificate
-- LeetCode
-- Backend Development
-
-### 🔭 Current Projects
-- Building profile page
-- Proofreading resume
+### Current
+|🌱Learning Focus|🔭Projects (?)|
+|-------------|-------------| 
+|Security+ Certificate|Building profile page|
+|LeetCode|Proofreading resume|
+|Backend Development ||
 
 ### 📫 How to reach me:
 - Email: ashleyma0728@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/yuehongxiao-ma/) (not up to date)
 
 ---
-### Recent works （Under Construction）
+### Past works （Under Construction）
 #### Incident Response Workflow Automation Prototype
 - Spring 2023
 #### Unity Game: Keyboard Warrior 
