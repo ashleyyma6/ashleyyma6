@@ -1,26 +1,21 @@
-### Hi there 👋
-I'm currently seeking an unpaid remote software engineer internship for Summer 2023. Feel free to contact me. 
+### Hi there 👋 I'm Ashley.
+- 🤔Currently seeking an unpaid remote software engineer internship for Summer 2023. Feel free to contact me. 
+- Areas of Interest: CyberSecurity, Backend development
 - [Resume](https://drive.google.com/file/d/1KUzUJisgLrA4M6KroZA-YTkTUbKKwlaR/view?usp=share_link)
-> This profile serves as a space to showcase additional information beyond what is included in my resume.
-
-### Areas of Interest
-- CyberSecurity
-- Backend development
 > "I am open to any software engineering or IT-related internship opportunities."
+### 📫 How to reach me:
+- Email: ashleyma0728@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/yuehongxiao-ma/) (not up to date)
 
 ### Skills
-Programming languages, frameworks and tools that I had experience with, ranked by recent familiarity
+- Programming languages, frameworks and tools that I had experience with, ranked by recent familiarity
+  
 |Backend|Web Development|Database|Others|
 |-------------|-------------| -----|-----|
 |Java|HTML, CSS|SQL|Unity|
 |Python|JavaScript, React.JS||Git, Github,  bitbucket|
 |C# |PHP||Trello|
-|C++ ||||
-
-### Education Experience
-- Pursuing a Master of Science in Computer Science (Computer Security) at USC
-- Expected graduation: December 2023
-
+|C++ |||AWS S3, AWS Lightsail|
 ### Current
 |🌱Learning Focus|🔭Projects (?)|
 |-------------|-------------| 
@@ -28,16 +23,6 @@ Programming languages, frameworks and tools that I had experience with, ranked b
 |LeetCode|Proofreading resume|
 |Backend Development ||
 
-### 📫 How to reach me:
-- Email: ashleyma0728@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/yuehongxiao-ma/) (not up to date)
-
----
-### Past works （Under Construction）
-#### Incident Response Workflow Automation Prototype
-- Spring 2023
-#### Unity Game: Keyboard Warrior 
-- Spring 2023 
 
 <!--
 **ashleyyma6/ashleyyma6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
