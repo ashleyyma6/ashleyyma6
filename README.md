@@ -1,7 +1,8 @@
 ### Hi there 👋 I'm Ashley.
-- 🤔Currently seeking an unpaid remote software engineer internship for Summer 2023. Feel free to contact me. 
+- 🤔Currently seeking an unpaid remote software engineer internship for Summer 2023 and a full time position in 2024. Feel free to contact me. 
 - Areas of Interest: CyberSecurity, Backend development
 - [Resume](https://drive.google.com/file/d/1KUzUJisgLrA4M6KroZA-YTkTUbKKwlaR/view?usp=share_link)
+- Other projects: [Github Page](https://ashleyyma6.github.io/)
 > "I am open to any software engineering or IT-related internship opportunities."
 ### 📫 How to reach me:
 - Email: ashleyma0728@gmail.com
